@@ -1,0 +1,27 @@
+{
+  "auto_start": false,
+  "show_task_col": [
+    "name",
+    "root_path",
+    "pattern",
+    "recursive",
+    "days",
+    "size",
+    "number",
+    "trigger_args",
+    "status"
+  ],
+  "tasks": [
+    {
+      "name": "测试",
+      "root_path": "D:/download/tmp",
+      "pattern": "*",
+      "recursive": false,
+      "days": 0,
+      "size": 0,
+      "number": 0,
+      "trigger_args": "0 0 0 * * *",
+      "status": 0
+    }
+  ]
+}

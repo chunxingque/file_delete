@@ -1,0 +1,7 @@
+__pycache__
+dist
+build
+__pycache__
+venv
+logs
+*.spec

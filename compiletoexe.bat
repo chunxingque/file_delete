@@ -1,0 +1,1 @@
+pyinstaller main.py -n file_delete -p logger_conf.py  -p file_delete.py -p MainWindowUI.py -p InputDialogUI.py  -p .venv\Lib\site-packages\PyQt6\Qt6\bin -i icon.ico -w --onefile
